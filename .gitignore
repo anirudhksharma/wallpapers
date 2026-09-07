@@ -1,0 +1,8 @@
+# iOS Live wallpaper videos (excluded per preference)
+*.mov
+*.mp4
+*.m4v
+
+# machine-specific active-wallpaper state (symlink / per-output state)
+/current
+/current-by-output/
